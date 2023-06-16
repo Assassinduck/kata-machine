@@ -4,7 +4,7 @@ test("maze solver", function () {
     const maze = [
         "xxxxxxxxxx x",
         "x        x x",
-        "x        x x",
+        "xl        x x",
         "x xxxxxxxx x",
         "x          x",
         "x xxxxxxxxxx",

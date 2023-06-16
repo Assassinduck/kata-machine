@@ -85,3 +85,17 @@ export const tree2: BinaryNode<number> = {
         }
     }
 };
+
+export const tree3: BinaryNode<number> = {
+    value: 30,
+    left: {
+        value: 20,
+        left: null,
+        right: null
+    },
+    right: {
+        value: 35,
+        left: null,
+        right: null
+    }
+};
